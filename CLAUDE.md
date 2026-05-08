@@ -23,6 +23,18 @@ Single HTML file with six sections (in order): sticky navbar, hero, chi-sono, or
 
 **Icons:** inline SVGs throughout, no icon font or external library.
 
+## Git workflow
+
+After every change, create a commit with a descriptive message that explains *what* changed and *why* (e.g. `update office hours for summer schedule`, not `fix stuff`). Then push to GitHub immediately so the live site stays in sync:
+
+```bash
+git add <changed files>
+git commit -m "descriptive message"
+git push
+```
+
+GitHub Pages redeploys automatically within ~1 minute of each push.
+
 ## Key content to keep in sync
 
 - MioDottore profile URL: `https://www.miodottore.it/laura-bruni-2` (used in navbar, hero button, and contatti card)
