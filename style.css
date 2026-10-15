@@ -297,6 +297,7 @@ img { max-width: 100%; display: block; }
 
 .card-address .icon-xs { color: var(--peach); margin-top: 3px; }
 
+.hero-location a,
 .card-address a {
   color: inherit;
   text-decoration: underline;
@@ -304,6 +305,7 @@ img { max-width: 100%; display: block; }
   text-underline-offset: 2px;
 }
 
+.hero-location a:hover,
 .card-address a:hover { color: var(--accent); }
 
 .card-note {
