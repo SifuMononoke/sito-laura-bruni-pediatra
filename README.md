@@ -2,7 +2,7 @@
 
 Sito ufficiale della Dott.ssa Laura Bruni, Pediatra di Libera Scelta a San Pietro in Casale (BO).
 
-**Live:** [laurabruni.pediatra.me](https://laurabruni.pediatra.me/)
+**Live:** [laurabruni.it](https://laurabruni.it/)
 
 ## Stack
 
