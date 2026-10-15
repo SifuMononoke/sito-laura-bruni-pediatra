@@ -297,6 +297,15 @@ img { max-width: 100%; display: block; }
 
 .card-address .icon-xs { color: var(--peach); margin-top: 3px; }
 
+.card-address a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--peach);
+  text-underline-offset: 2px;
+}
+
+.card-address a:hover { color: var(--accent); }
+
 .card-note {
   font-size: 0.8rem;
   color: var(--text-muted);
